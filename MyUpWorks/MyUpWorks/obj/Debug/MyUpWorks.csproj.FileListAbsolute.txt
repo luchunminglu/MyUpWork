@@ -1,0 +1,5 @@
+E:\Github\MyUpWork\MyUpWorks\MyUpWorks\bin\Debug\MyUpWorks.exe
+E:\Github\MyUpWork\MyUpWorks\MyUpWorks\bin\Debug\MyUpWorks.pdb
+E:\Github\MyUpWork\MyUpWorks\MyUpWorks\obj\Debug\MyUpWorks.csprojResolveAssemblyReference.cache
+E:\Github\MyUpWork\MyUpWorks\MyUpWorks\obj\Debug\MyUpWorks.exe
+E:\Github\MyUpWork\MyUpWorks\MyUpWorks\obj\Debug\MyUpWorks.pdb
